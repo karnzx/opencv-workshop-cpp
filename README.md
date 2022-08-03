@@ -1,4 +1,5 @@
 # Computer Vision OpenCV Workshop Class
+Lecturer by **[Asst. Prof. Dr. Nikom Suvonvorn](https://www.coe.psu.ac.th/script/staff/staff_detail.php?staff=61&lang=en)**
 
 This project contained code about Computer Vision written with OpenCV C++ when i was learning Computer Vision.
 
@@ -22,3 +23,5 @@ OpenCV (Open Source Computer Vision Library) is an open source computer vision a
 - [In Window (Visual Studio 2022)](https://www.youtube.com/watch?v=unSce_GPwto)
     
     Just build and Run
+    
+    
