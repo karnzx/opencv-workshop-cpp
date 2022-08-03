@@ -1,0 +1,1 @@
+LprLearn.exe -in in.txt -out out.txt -save model.xml -samples 630 -in_attributes 120 -out_attributes 10
