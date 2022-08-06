@@ -1,7 +1,7 @@
 # ANN MLP Prediction
 train model for predict which is 'car identity card' (idcar) or 'personal identity card' (idcard)
 
-**when predict the image with trained model (image size (width) must be equal to size when trained in this example is 645 pixel width)**
+**If some warning occurred in run time it may be just a DEBUG warning.**
 
 This script written in batch
 
@@ -35,7 +35,7 @@ This script written in batch
 
 		![result-6cm_prediction](https://github.com/karnzx/opencv-workshop-cpp/blob/main/03-ann-mlp-prediction/terminal-6cmd_predict.png)
 
-# Example of predict script
+# Example of predict
 
 **when predict the image with trained model (image size (width) must be equal to size when trained in this example is 645 pixel width)**
 
