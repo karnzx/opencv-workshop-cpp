@@ -20,6 +20,6 @@ CascadeOnWebcam.exe haarcascade\400-num-16-stage-cascade.xml
 
 ## Image Resource
 
-- [positive](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+- [positive and test](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
 - negative from Lecturer 
