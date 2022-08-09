@@ -1,5 +1,7 @@
 # Face Detection haarcascade
 
+## ** First unzip negative, positive, test to get image directory for train and test **
+
 ### .dat file extension is text file contain the list of image path 
 
 (positive.dat have additional arguments that is {path number, x1, y1, width, hight})
