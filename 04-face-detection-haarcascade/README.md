@@ -1,5 +1,12 @@
 # Face Detection haarcascade
 
+(Below result used `haarcascade/400-num-16-stage-cascade.xml`)
+<div>
+  <img alt="example-test-face-reg1" width="200" height="200" src="https://github.com/karnzx/opencv-workshop-cpp/blob/main/04-face-detection-haarcascade/test-face-reg.png">
+
+  <img alt="example-test-face-reg1" width="200" height="200" src="https://github.com/karnzx/opencv-workshop-cpp/blob/main/04-face-detection-haarcascade/test-face-reg2.png">
+</div>
+
 ## ** First unzip zipfile in negative, positive, test to get image for train and test **
 
 ### .dat file extension is text file contain the list of image path 
