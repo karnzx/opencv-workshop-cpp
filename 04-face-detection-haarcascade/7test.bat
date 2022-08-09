@@ -1,0 +1,1 @@
+LprTest.exe haarcascade\cascade.xml test.dat

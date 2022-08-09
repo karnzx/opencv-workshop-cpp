@@ -1,0 +1,1 @@
+for /r . %%g in (test\*.jpg) do (echo %%g >> test.dat)
