@@ -16,5 +16,5 @@
 ## results
 ### video.avi
 <div>
-  <img alt="detect1" src="https://github.com/karnzx/opencv-workshop-cpp/blob/main/06-object-tracking/results/1.png">
+  <img alt="detect1" src="https://github.com/karnzx/opencv-workshop-cpp/blob/main/06-object-tracking/result/1.png">
 </div>
