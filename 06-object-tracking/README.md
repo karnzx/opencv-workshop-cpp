@@ -8,13 +8,19 @@
 
 ## tracking moving object in video and count when cross the line
 - `simple-tracking.cpp` only detect the movement in background and create bounding box on it
-    - please use with vtest.avi
+    - please use with video.avi
 
 `run with "video.avi"`
-
----
-## results
-### video.avi
 <div>
   <img alt="detect1" src="https://github.com/karnzx/opencv-workshop-cpp/blob/main/06-object-tracking/result/1.png">
+</div>
+
+---
+
+- `highway.cpp` detect car and count when cross the line with direction where car go
+    - please use with highway.mp4
+
+`run with "highway.mp4"`
+<div>
+  <img alt="detect2" src="https://github.com/karnzx/opencv-workshop-cpp/blob/main/06-object-tracking/result/highway.png">
 </div>
